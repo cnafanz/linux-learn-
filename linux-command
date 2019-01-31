@@ -1,0 +1,3 @@
+sudo dpkg -i * 安装包
+sudo apt install -f 安装依赖
+tar -xzvf * 解压tar.gz包
